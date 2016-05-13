@@ -7,3 +7,5 @@ This proposal should be expanded with further resources, expansion of the requir
 ## References
 
 [Distributed Collaborative Organisations: Distributed Networks & Regulatory  Frameworks](http://bollier.org/sites/default/files/misc-file-upload/files/DistributedNetworksandtheLaw%20report%2C%20Swarm-Coin%20Center-Berkman.pdf)
+[Ethereum: Fixing the legal problem of the DAO](https://medium.com/@piersbxd/ethereum-fixing-the-legal-problem-of-the-dao-4cae1eea63a6#.bmad3kiq2)
+[EB125 – Florian Glatz: Defining A Legal Framework For Decentralized Autonomous Organizations (DAO)](https://epicenterbitcoin.com/podcast/125/)
